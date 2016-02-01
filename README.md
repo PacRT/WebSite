@@ -40,14 +40,16 @@ if you are re-running; it is always good idea to remove public diectory
 
 **$ rm -rf public**
 
-Use sudo with the above command if you do have privilges.
+Use sudo with the above command if you do not have privilges.
 
 Luanch your browser and type the following link and browse the site:
 
 http://localhost:1313
 
-The above command will create
+The following commands can we used during development so that the changes are automatically reflected in the browser.
+
 **$hugo server**
+
 **hugo server -verbose**
 
 
