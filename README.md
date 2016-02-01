@@ -28,15 +28,22 @@ source the file
 **$ . /etc/bash_completion**
 
 # 3. Run hugo and launch website
-Get website files from https://github.com/PacRT/WebSite 
+Get website files from https://github.com/PacRT/WebSite
+
 You have to be in the directory to run hugo command.
-## Run hugo and launch the webiste locally
+
 The following command will create direcrtory called **public** and install all the files required for the site from the source. You can test running locally.
+
 **$ hugo**
+
 if you are re-running; it is always good idea to remove public diectory
+
 **$ rm -rf public**
+
 Use sudo with the above command if you do have privilges.
+
 Luanch your browser and type the following link and browse the site:
+
 http://localhost:1313
 
 The above command will create
