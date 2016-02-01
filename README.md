@@ -48,9 +48,9 @@ http://localhost:1313
 
 The following commands can we used during development so that the changes are automatically reflected in the browser.
 
-**$hugo server**
+**$ hugo server**
 
-**hugo server -verbose**
+**$ hugo server -verbose**
 
 
 
