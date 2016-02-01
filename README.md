@@ -29,7 +29,8 @@ source the file
 
 # 3. Get website files from https://github.com/PacRT/WebSite 
 You have to be in the directory to run hugo command.
-## The following command will create direcroty called **public** and install all the files required for the site from the source. You can test running locally.
+## Run hugo and launch the webiste locally
+The following command will create direcrtory called **public** and install all the files required for the site from the source. You can test running locally.
 **$ hugo**
 if you are re-running; it is always good idea to remove public diectory
 **$ rm -rf public**
